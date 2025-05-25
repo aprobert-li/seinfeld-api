@@ -1,0 +1,212 @@
+[
+    {
+      "id": 1,
+      "name": "Jerry Seinfeld",
+      "actor": "Jerry Seinfeld",
+      "occupation": "Stand-up Comedian",
+      "description": "The observational comedian at the center of the group, known for his wry wit, dating neuroses, and often bemused reactions to his friends' antics."
+    },
+    {
+      "id": 2,
+      "name": "George Costanza",
+      "actor": "Jason Alexander",
+      "occupation": "Unemployed / Various Jobs",
+      "description": "Jerry's neurotic, insecure, and perpetually unlucky best friend. A master of lying, manipulation, and self-sabotage, often characterized by his baldness and cheapness."
+    },
+    {
+      "id": 3,
+      "name": "Elaine Benes",
+      "actor": "Julia Louis-Dreyfus",
+      "occupation": "Editor / Executive",
+      "description": "Jerry's ex-girlfriend and close friend, known for her strong opinions, distinct bad dance moves, and frequently tumultuous career and relationships."
+    },
+    {
+      "id": 4,
+      "name": "Cosmo Kramer",
+      "actor": "Michael Richards",
+      "occupation": "Inventer / Entrepreneur / Unemployed",
+      "description": "Jerry's eccentric, lanky, and enigmatic neighbor, known for his wild hair, distinctive entrance, bizarre schemes, and frequent physical comedy."
+    },
+    {
+      "id": 5,
+      "name": "Newman",
+      "actor": "Wayne Knight",
+      "occupation": "U.S. Postal Worker",
+      "description": "Jerry's corpulent arch-nemesis and Kramer's best friend. A scheming, lazy, and often villainous mailman who lives across the hall from Jerry."
+    },
+    {
+      "id": 6,
+      "name": "Frank Costanza",
+      "actor": "Jerry Stiller",
+      "occupation": "Retired / Various Businesses",
+      "description": "George's loud, short-tempered, and highly opinionated father, known for creating the holiday Festivus and his love for various quirky endeavors."
+    },
+    {
+      "id": 7,
+      "name": "Estelle Costanza",
+      "actor": "Estelle Harris",
+      "occupation": "Homemaker",
+      "description": "George's dramatic, overbearing, and equally loud mother, constantly complaining about Frank and George's life choices with a distinctive nasal voice."
+    },
+    {
+      "id": 8,
+      "name": "Susan Ross",
+      "actor": "Heidi Swedberg",
+      "occupation": "NBC Executive",
+      "description": "George's fiancée who tragically dies from licking cheap, toxic wedding invitations. She was a calm and patient counterpoint to George's neuroses."
+    },
+    {
+      "id": 9,
+      "name": "Mr. Wilhelm",
+      "actor": "Richard Herd",
+      "occupation": "Assistant to the Traveling Secretary (New York Yankees)",
+      "description": "George's oblivious and soft-spoken boss at the New York Yankees, who often misunderstands George's bizarre behavior and assigns him peculiar tasks."
+    },
+    {
+      "id": 10,
+      "name": "J. Peterman",
+      "actor": "John O'Hurley",
+      "occupation": "J. Peterman Catalog CEO",
+      "description": "Elaine's eccentric and adventurous boss, a world traveler known for his verbose storytelling, exotic anecdotes, and unusual requests."
+    },
+    {
+      "id": 11,
+      "name": "David Puddy",
+      "actor": "Patrick Warburton",
+      "occupation": "Auto Mechanic / Car Salesman",
+      "description": "Elaine's on-again, off-again, mostly monosyllabic, and deeply religious boyfriend, known for his \"high-five\" and affinity for Arby's."
+    },
+    {
+      "id": 12,
+      "name": "Jackie Chiles",
+      "actor": "Phil Morris",
+      "occupation": "Attorney",
+      "description": "Kramer's flamboyant and highly litigious lawyer, a parody of Johnnie Cochran, known for his dramatic pronouncements and over-the-top legal strategies."
+    },
+    {
+      "id": 13,
+      "name": "Morty Seinfeld",
+      "actor": "Barney Martin",
+      "occupation": "Retired (formerly Raincoat Salesman)",
+      "description": "Jerry's frugal, opinionated father, living in Florida, known for his strong beliefs about money, his invented \"Executive\" raincoat, and his contempt for Newman."
+    },
+    {
+      "id": 14,
+      "name": "Helen Seinfeld",
+      "actor": "Liz Sheridan",
+      "occupation": "Homemaker",
+      "description": "Jerry's supportive and often exasperated mother, also living in Florida, who thinks everything Jerry does is \"marvelous\" and can't comprehend his friends' quirks."
+    },
+    {
+      "id": 15,
+      "name": "Uncle Leo",
+      "actor": "Len Lesser",
+      "occupation": "Retired",
+      "description": "Jerry's eccentric and overly affectionate uncle, known for his loud greetings (\"Jerry! Hello!\"), his dramatic hand gestures, and often petty grievances."
+    },
+    {
+      "id": 16,
+      "name": "Mickey Abbott",
+      "actor": "Danny Woodburn",
+      "occupation": "Actor",
+      "description": "Kramer's short-statured friend and aspiring actor, known for his fiery temper and disputes over his height, often seen in various costumes."
+    },
+    {
+      "id": 17,
+      "name": "Tim Whatley",
+      "actor": "Bryan Cranston",
+      "occupation": "Dentist",
+      "description": "Jerry's dentist friend, known for converting to Judaism for the jokes, re-gifting, and possibly being a \"re-gifter\" of questionable gifts."
+    },
+    {
+      "id": 18,
+      "name": "Yev Kassem (Soup Nazi)",
+      "actor": "Larry Thomas",
+      "occupation": "Soup Stand Owner",
+      "description": "A notoriously strict and tyrannical soup kitchen owner who has a strict ordering procedure and will ban customers for minor infractions. 'No soup for you!'"
+    },
+    {
+      "id": 19,
+      "name": "Babu Bhatt",
+      "actor": "Brian George",
+      "occupation": "Restaurant Owner",
+      "description": "A Pakistani immigrant who runs a struggling restaurant. Jerry gives him bad business advice, leading to his restaurant failing and ultimately his deportation."
+    },
+    {
+      "id": 20,
+      "name": "Kenny Bania",
+      "actor": "Steve Hytner",
+      "occupation": "Comedian",
+      "description": "A hack comedian who frequently annoys Jerry with his terrible jokes, attempts to mooch, and claims of being a 'professional comedian' and Jerry's 'mentor.'"
+    },
+    {
+      "id": 21,
+      "name": "Izzy Mandelbaum",
+      "actor": "Lloyd Bridges",
+      "occupation": "Retired (Fitness Enthusiast)",
+      "description": "An elderly, incredibly strong man and former fitness instructor, known for his catchphrase \"It's go time!\" and his bizarre physical challenges to Kramer."
+    },
+    {
+      "id": 22,
+      "name": "Lt. Bookman",
+      "actor": "Philip Baker Hall",
+      "occupation": "New York Public Library Detective",
+      "description": "A cynical and hard-boiled library detective who confronts Jerry about an overdue book, delivering a memorable, poetic monologue about the importance of books."
+    },
+    {
+      "id": 23,
+      "name": "Joe Davola",
+      "actor": "Peter Murnik",
+      "occupation": "Writer / Performance Artist",
+      "description": "A psychotic writer and performance artist who develops an obsessive and violent grudge against Jerry, stalking him and causing various disturbances."
+    },
+    {
+      "id": 24,
+      "name": "Poppie",
+      "actor": "Reni Santoni",
+      "occupation": "Restaurant Owner / Parking Assistant",
+      "description": "An opinionated and often unsanitary elderly man who owns a restaurant and is involved in various mishaps with the gang, notably his bladder issues and anti-abortion stance."
+    },
+    {
+      "id": 25,
+      "name": "Bob Cobb (The Maestro)",
+      "actor": "Mark Metcalf",
+      "occupation": "Conductor",
+      "description": "Elaine's pretentious and self-important boyfriend who insists on being called \"Maestro\" and claims to own a villa in Tuscany."
+    },
+    {
+      "id": 26,
+      "name": "Sue Ellen Mischke",
+      "actor": "Brenda Strong",
+      "occupation": "O'Henry Candy Bar Heiress",
+      "description": "Elaine's old high school friend and a wealthy heiress who famously goes bra-less, causing a stir among the gang and a legal battle for Elaine."
+    },
+    {
+      "id": 27,
+      "name": "Mr. Pitt",
+      "actor": "Ian Abercrombie",
+      "occupation": "Businessman",
+      "description": "Elaine's demanding and eccentric boss at an import/export company, known for his unusual requests (like asking Elaine to pick out his socks) and an affinity for pencils."
+    },
+    {
+      "id": 28,
+      "name": "Marcy",
+      "actor": "Jennifer Campbell",
+      "occupation": "Unknown",
+      "description": "George's attractive girlfriend who decides to get a nose job, which George is surprisingly against after seeing the less-than-ideal results."
+    },
+    {
+      "id": 29,
+      "name": "Sheila",
+      "actor": "Marla Sucharetza",
+      "occupation": "Unknown",
+      "description": "Jerry's girlfriend known for her soft, nearly inaudible speaking voice ('low talker'), forcing Jerry to constantly ask her to repeat herself."
+    },
+    {
+      "id": 30,
+      "name": "Sid",
+      "actor": "Jay Brooks",
+      "occupation": "Parking Lot Attendant",
+      "description": "A curmudgeonly and confrontational parking lot attendant who frequently has run-ins with George and other characters over parking disputes."
+    }
+  ]

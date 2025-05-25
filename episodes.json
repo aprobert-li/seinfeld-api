@@ -1,0 +1,1442 @@
+[
+    {
+      "id": 1,
+      "season": 1,
+      "episode": 1,
+      "title": "Good News, Bad News (The Seinfeld Chronicles)",
+      "airDate": "1989-07-05",
+      "description": "Jerry tells George about some good news and bad news. This becomes a pattern for the show's jokes. Jerry's neighbor, Kramer, gets a key to Jerry's apartment. Jerry talks about his date and what she orders."
+    },
+    {
+      "id": 2,
+      "season": 1,
+      "episode": 2,
+      "title": "The Stake Out",
+      "airDate": "1990-05-31",
+      "description": "Jerry attends a party where he attempts to get a date with a woman he met. George and Jerry stake out the lobby of her office building to try and casually bump into her."
+    },
+    {
+      "id": 3,
+      "season": 1,
+      "episode": 3,
+      "title": "The Robbery",
+      "airDate": "1990-06-07",
+      "description": "Jerry is looking for a new apartment. George's new girlfriend leaves her apartment open so Jerry can see it. Jerry decides not to take it and an argument between George and Jerry ensues. Later, Jerry's apartment is robbed."
+    },
+    {
+      "id": 4,
+      "season": 1,
+      "episode": 4,
+      "title": "Male Unbonding",
+      "airDate": "1990-06-14",
+      "description": "Jerry tries to unbond from a childhood friend who is too dependent and annoying. Elaine tries to get a friend to date Kramer."
+    },
+    {
+      "id": 5,
+      "season": 1,
+      "episode": 5,
+      "title": "The Stock Tip",
+      "airDate": "1990-06-21",
+      "description": "Jerry and Elaine go away for a weekend in Vermont. George gives Jerry a stock tip, which Jerry invests in. Later, Elaine gets sick and Jerry loses money on the stock tip."
+    },
+    {
+      "id": 6,
+      "season": 2,
+      "episode": 1,
+      "title": "The Ex-Girlfriend",
+      "airDate": "1991-01-23",
+      "description": "Jerry gets a new girlfriend, Marlene, only to discover she used to date George. George's obsession with a man's soft-serve ice cream cone leads to a confrontation."
+    },
+    {
+      "id": 7,
+      "season": 2,
+      "episode": 2,
+      "title": "The Pony Remark",
+      "airDate": "1991-01-30",
+      "description": "Jerry's aunt passes away after he makes an ill-advised pony remark at her 80th birthday party. George considers getting a job as a real estate agent."
+    },
+    {
+      "id": 8,
+      "season": 2,
+      "episode": 3,
+      "title": "The Jacket",
+      "airDate": "1991-02-06",
+      "description": "Jerry buys an expensive suede jacket. He, Elaine, and George have to wait for Elaine's father, who is visiting, for a dinner appointment, leading to a tense encounter."
+    },
+    {
+      "id": 9,
+      "season": 2,
+      "episode": 4,
+      "title": "The Phone Message",
+      "airDate": "1991-02-13",
+      "description": "George leaves an angry phone message for his girlfriend, Carol. He and Jerry conspire to steal the answering machine tape to erase the message before she hears it."
+    },
+    {
+      "id": 10,
+      "season": 2,
+      "episode": 5,
+      "title": "The Apartment",
+      "airDate": "1991-02-20",
+      "description": "Elaine wants to rent an apartment in Jerry's building. Jerry tries to help her get it, but then worries about what it would be like having her living so close."
+    },
+    {
+      "id": 11,
+      "season": 2,
+      "episode": 6,
+      "title": "The Stranded",
+      "airDate": "1991-02-27",
+      "description": "Jerry, George, and Elaine go to a party in Long Island, where they get stranded. George makes a bad impression on a potential employer, and Kramer prepares for a visit from his mother."
+    },
+    {
+      "id": 12,
+      "season": 2,
+      "episode": 7,
+      "title": "The Note",
+      "airDate": "1991-03-06",
+      "description": "Jerry, Elaine, and George get massages from the same woman, sparking a discussion about whether they were sexual or not. George worries about his medical insurance."
+    },
+    {
+      "id": 13,
+      "season": 2,
+      "episode": 8,
+      "title": "The Truth",
+      "airDate": "1991-03-13",
+      "description": "George is dating a woman who is a psychologist and inadvertently reveals Jerry's tax fraud to her. Elaine breaks up with her boyfriend because of his bad financial management."
+    },
+    {
+      "id": 14,
+      "season": 2,
+      "episode": 9,
+      "title": "The Baby Shower",
+      "airDate": "1991-04-03",
+      "description": "Elaine hosts a baby shower for a friend who is getting married. Jerry gets illegal cable TV installed, leading to comedic complications."
+    },
+    {
+      "id": 15,
+      "season": 2,
+      "episode": 10,
+      "title": "The Chinese Restaurant",
+      "airDate": "1991-04-11",
+      "description": "Jerry, Elaine, and George try to get a table at a Chinese restaurant before going to see a movie, but their wait becomes an agonizing ordeal."
+    },
+    {
+      "id": 16,
+      "season": 2,
+      "episode": 11,
+      "title": "The Busboy",
+      "airDate": "1991-04-18",
+      "description": "George gets a busboy fired from a restaurant for a trivial reason, leading to unfortunate consequences. Elaine's boyfriend brings his cat to New York, causing tension."
+    },
+    {
+      "id": 17,
+      "season": 2,
+      "episode": 12,
+      "title": "The Deal",
+      "airDate": "1991-04-24",
+      "description": "Jerry and Elaine attempt to define their relationship after having sex on his birthday, leading to a deal to have sex without affecting their friendship, with predictable results."
+    },
+    {
+      "id": 18,
+      "season": 3,
+      "episode": 1,
+      "title": "The Note",
+      "airDate": "1991-09-18",
+      "description": "After getting joint massages, Jerry, George, and Elaine wonder if they were sexual. George worries about his medical insurance, and Kramer claims to have seen Joe DiMaggio at a donut shop."
+    },
+    {
+      "id": 19,
+      "season": 3,
+      "episode": 2,
+      "title": "The Pen",
+      "airDate": "1991-09-25",
+      "description": "Jerry and Elaine go to Florida to visit Jerry's parents. Jerry's father gets upset when Jerry doesn't accept a pen from a neighbor, leading to a family feud."
+    },
+    {
+      "id": 20,
+      "season": 3,
+      "episode": 3,
+      "title": "The Dog",
+      "airDate": "1991-10-02",
+      "description": "Jerry agrees to take care of a dog for a man he met on an airplane, but the dog's annoying habits interfere with his life and social plans."
+    },
+    {
+      "id": 21,
+      "season": 3,
+      "episode": 4,
+      "title": "The Library",
+      "airDate": "1991-10-09",
+      "description": "Jerry is accused by a library detective of not returning a book from 1971. George believes he saw his old high school gym teacher, Mr. Heyman, who was fired after a prank involving Jerry."
+    },
+    {
+      "id": 22,
+      "season": 3,
+      "episode": 5,
+      "title": "The Parking Garage",
+      "airDate": "1991-10-16",
+      "description": "Jerry, George, Elaine, and Kramer get hopelessly lost in a multi-level parking garage at a mall, unable to remember where Kramer's car is parked."
+    },
+    {
+      "id": 23,
+      "season": 3,
+      "episode": 6,
+      "title": "The Cafe",
+      "airDate": "1991-10-30",
+      "description": "Jerry tries to help a struggling Pakistani restaurant owner, Babu Bhatt, by giving him business advice. Kramer wants to create a coffee table book about coffee tables."
+    },
+    {
+      "id": 24,
+      "season": 3,
+      "episode": 7,
+      "title": "The Tape",
+      "airDate": "1991-11-06",
+      "description": "Jerry finds an erotic message on an answering machine tape. Jerry and George both believe it was left by a mysterious woman, but Elaine claims it was her."
+    },
+    {
+      "id": 25,
+      "season": 3,
+      "episode": 8,
+      "title": "The Nose Job",
+      "airDate": "1991-11-13",
+      "description": "George is dating a beautiful woman who decides to get a nose job, which George is surprisingly against. Kramer gives an aspiring actress advice on her career."
+    },
+    {
+      "id": 26,
+      "season": 3,
+      "episode": 9,
+      "title": "The Alternate Side",
+      "airDate": "1991-12-04",
+      "description": "Jerry hires an old man named Poppie to move his car for alternate side of the street parking. Kramer gets a speaking role in a Woody Allen film, leading to chaos on set."
+    },
+    {
+      "id": 27,
+      "season": 3,
+      "episode": 10,
+      "title": "The Red Dot",
+      "airDate": "1991-12-11",
+      "description": "George gets a job at a company after buying Elaine a cashmere sweater with a red dot on it, leading to a series of ethical dilemmas and a party gone wrong."
+    },
+    {
+      "id": 28,
+      "season": 3,
+      "episode": 11,
+      "title": "The Subway",
+      "airDate": "1992-01-08",
+      "description": "Jerry, George, Elaine, and Kramer each embark on separate adventures while riding the subway, encountering unique characters and situations."
+    },
+    {
+      "id": 29,
+      "season": 3,
+      "episode": 12,
+      "title": "The Pez Dispenser",
+      "airDate": "1992-01-15",
+      "description": "Jerry places a Pez dispenser on Elaine's knee during a piano recital, causing her to laugh uncontrollably. George is in a tough spot with his girlfriend due to a drug problem he pretends to have."
+    },
+    {
+      "id": 30,
+      "season": 3,
+      "episode": 13,
+      "title": "The Suicide",
+      "airDate": "1992-01-29",
+      "description": "Jerry's neighbor attempts suicide, leading to Jerry dating his girlfriend. George worries about a psychic's prediction, and Kramer has a bad reaction to some food."
+    },
+    {
+      "id": 31,
+      "season": 3,
+      "episode": 14,
+      "title": "The Fix Up",
+      "airDate": "1992-02-05",
+      "description": "Jerry and Elaine try to set up George with Elaine's friend, Cynthia. They worry about the success of the relationship and discuss the rules of a good fix-up."
+    },
+    {
+      "id": 32,
+      "season": 3,
+      "episode": 15,
+      "title": "The Boyfriend (Part 1)",
+      "airDate": "1992-02-12",
+      "description": "Jerry becomes friends with Keith Hernandez, a former New York Mets baseball player. George tries to get an unemployment extension by pretending to be interested in a job."
+    },
+    {
+      "id": 33,
+      "season": 3,
+      "episode": 16,
+      "title": "The Boyfriend (Part 2)",
+      "airDate": "1992-02-12",
+      "description": "Jerry and George debate the Magic Loogie theory involving Keith Hernandez. Elaine becomes annoyed with Jerry's friendship, and George has an awkward job interview."
+    },
+    {
+      "id": 34,
+      "season": 3,
+      "episode": 17,
+      "title": "The Limo",
+      "airDate": "1992-02-12",
+      "description": "Jerry and George pretend to be someone else to get a free ride in a limousine, leading them to be involved in a white supremacist rally and a terrifying situation."
+    },
+    {
+      "id": 35,
+      "season": 3,
+      "episode": 18,
+      "title": "The Good Samaritan",
+      "airDate": "1992-02-19",
+      "description": "Jerry dates a woman who committed a hit-and-run. George tries to confront a woman he saw cheating on her husband, and Elaine accidentally causes Kramer to be investigated."
+    },
+    {
+      "id": 36,
+      "season": 3,
+      "episode": 19,
+      "title": "The Letter",
+      "airDate": "1992-02-26",
+      "description": "Elaine gets a job at a baseball team where she helps an artist design a new logo. Jerry and Kramer accidentally insult the artist's work."
+    },
+    {
+      "id": 37,
+      "season": 3,
+      "episode": 20,
+      "title": "The Airport",
+      "airDate": "1992-03-25",
+      "description": "Jerry and Elaine have vastly different travel experiences on a flight back to New York. George and Kramer try to pick them up at the airport, encountering various setbacks."
+    },
+    {
+      "id": 38,
+      "season": 3,
+      "episode": 21,
+      "title": "The Parking Space",
+      "airDate": "1992-04-22",
+      "description": "George and another driver have an escalating standoff over a coveted parking space in front of Jerry's apartment building, leading to a neighborhood spectacle."
+    },
+    {
+      "id": 39,
+      "season": 3,
+      "episode": 22,
+      "title": "The Keys",
+      "airDate": "1992-03-18",
+      "description": "Jerry revokes Kramer's spare key to his apartment. Kramer decides to move to Los Angeles to pursue acting, leading to an eventful cross-country trip."
+    },
+    {
+      "id": 40,
+      "season": 3,
+      "episode": 23,
+      "title": "The Trip (Part 1)",
+      "airDate": "1992-05-06",
+      "description": "Jerry and George go to Los Angeles where Jerry is scheduled to appear on The Tonight Show. Meanwhile, Kramer is implicated in a serial killer case."
+    },
+    {
+      "id": 41,
+      "season": 3,
+      "episode": 24,
+      "title": "The Trip (Part 2)",
+      "airDate": "1992-05-06",
+      "description": "Jerry and George's adventures in Los Angeles continue as Kramer is questioned about a serial killer case. Jerry finally appears on The Tonight Show, and Kramer evades the police."
+    },
+    {
+      "id": 42,
+      "season": 4,
+      "episode": 1,
+      "title": "The Ticket",
+      "airDate": "1992-09-16",
+      "description": "Kramer tries to get a ticket to the U.S. Open from George. Jerry's appearance on The Tonight Show leads to an invitation to appear on the show again."
+    },
+    {
+      "id": 43,
+      "season": 4,
+      "episode": 2,
+      "title": "The Pothole",
+      "airDate": "1992-09-16",
+      "description": "Jerry discovers that the ticket from The Tonight Show comes with a price. George tries to avoid paying a parking ticket from the U.S. Open."
+    },
+    {
+      "id": 44,
+      "season": 4,
+      "episode": 3,
+      "title": "The Pitch",
+      "airDate": "1992-09-16",
+      "description": "Jerry and George pitch their idea for a sitcom about nothing to NBC executives. Elaine tries to avoid a friend who constantly asks for favors."
+    },
+    {
+      "id": 45,
+      "season": 4,
+      "episode": 4,
+      "title": "The Ticket (Parts 1 & 2)",
+      "airDate": "1992-09-16",
+      "description": "A recap of The Trip (Part 1) and The Trip (Part 2) along with new footage, essentially combining the previous two episodes from Season 3."
+    },
+    {
+      "id": 46,
+      "season": 4,
+      "episode": 5,
+      "title": "The Wallet",
+      "airDate": "1992-09-23",
+      "description": "Jerry's father complains about his stolen wallet. George has a disastrous job interview at NBC and is mistaken for a rude person."
+    },
+    {
+      "id": 47,
+      "season": 4,
+      "episode": 6,
+      "title": "The Cheever Letters",
+      "airDate": "1992-09-30",
+      "description": "Jerry's girlfriend's father is a famous writer, leading to Jerry discovering embarrassing letters. George tries to use a loophole to get out of his NBC contract."
+    },
+    {
+      "id": 48,
+      "season": 4,
+      "episode": 7,
+      "title": "The Opera",
+      "airDate": "1992-10-07",
+      "description": "The gang goes to the opera, where they encounter crazy characters and a confrontation with Joe Davola, who threatens Kramer."
+    },
+    {
+      "id": 49,
+      "season": 4,
+      "episode": 8,
+      "title": "The Virgin",
+      "airDate": "1992-10-28",
+      "description": "Jerry dates a virgin, leading to anxiety about their relationship. George buys an embarrassing invitation. Kramer and Newman try to create a board game."
+    },
+    {
+      "id": 50,
+      "season": 4,
+      "episode": 9,
+      "title": "The Contest",
+      "airDate": "1992-11-18",
+      "description": "George's mother catches him masturbating, leading to the gang making a bet about who can go the longest without masturbating."
+    },
+    {
+      "id": 51,
+      "season": 4,
+      "episode": 10,
+      "title": "The Airport",
+      "airDate": "1992-11-25",
+      "description": "A recap of The Airport from Season 3, combined with some new footage and a discussion about airline travel."
+    },
+    {
+      "id": 52,
+      "season": 4,
+      "episode": 11,
+      "title": "The Pick",
+      "airDate": "1992-12-02",
+      "description": "Jerry's new girlfriend sees him picking his nose in traffic. Elaine uses a photograph of Kramer on a Christmas card that is deemed offensive."
+    },
+    {
+      "id": 53,
+      "season": 4,
+      "episode": 12,
+      "title": "The Movie",
+      "airDate": "1992-12-16",
+      "description": "Jerry, George, Elaine, and Kramer try to meet up to see a movie, but a series of miscommunications and obstacles keep them apart."
+    },
+    {
+      "id": 54,
+      "season": 4,
+      "episode": 13,
+      "title": "The Visa",
+      "airDate": "1993-01-27",
+      "description": "Babu Bhatt is deported due to an immigration issue, leading Jerry to feel guilty. George helps Kramer with a visa application and gets a crush on a paralegal."
+    },
+    {
+      "id": 55,
+      "season": 4,
+      "episode": 14,
+      "title": "The Shoes",
+      "airDate": "1993-02-03",
+      "description": "Jerry offends an NBC executive by commenting on his girlfriend's shoes. George tries to steal a look at the executive's daughter's cleavage, leading to a misunderstanding."
+    },
+    {
+      "id": 56,
+      "season": 4,
+      "episode": 15,
+      "title": "The Outing",
+      "airDate": "1993-02-11",
+      "description": "A reporter mistakenly believes Jerry and George are a gay couple. They repeatedly declare not that there's anything wrong with that to everyone they meet."
+    },
+    {
+      "id": 57,
+      "season": 4,
+      "episode": 16,
+      "title": "The Old Man",
+      "airDate": "1993-02-18",
+      "description": "The gang volunteers to visit elderly people, but find their assigned seniors incredibly annoying and demanding."
+    },
+    {
+      "id": 58,
+      "season": 4,
+      "episode": 17,
+      "title": "The Implant",
+      "airDate": "1993-02-25",
+      "description": "Jerry tries to determine if his girlfriend has breast implants. George tries to impress his girlfriend by pretending to be a better person, and Elaine attends a funeral."
+    },
+    {
+      "id": 59,
+      "season": 4,
+      "episode": 18,
+      "title": "The Handicap Spot",
+      "airDate": "1993-03-18",
+      "description": "George parks in a handicap spot, leading to a disabled woman getting injured and a mob destroying his father's car."
+    },
+    {
+      "id": 60,
+      "season": 4,
+      "episode": 19,
+      "title": "The Junior Mint",
+      "airDate": "1993-03-18",
+      "description": "Jerry dates an artist who only paints in black and white. Kramer accidentally drops a Junior Mint into a patient during George's girlfriend's surgery."
+    },
+    {
+      "id": 61,
+      "season": 4,
+      "episode": 20,
+      "title": "The Smelly Car",
+      "airDate": "1993-04-15",
+      "description": "Jerry's car develops an unbearable odor after a valet parks it, causing his dates to run away. Elaine's boyfriend shaves off all his body hair."
+    },
+    {
+      "id": 62,
+      "season": 4,
+      "episode": 21,
+      "title": "The Pilot (Part 1)",
+      "airDate": "1993-05-06",
+      "description": "Jerry and George cast actors for their NBC pilot, leading to a series of comedic missteps. Elaine tries to stop a coffee shop from closing."
+    },
+    {
+      "id": 63,
+      "season": 4,
+      "episode": 22,
+      "title": "The Pilot (Part 2)",
+      "airDate": "1993-05-06",
+      "description": "Jerry and George's pilot airs, with disastrous results. George struggles with his new job, and Kramer is harassed by Joe Davola."
+    },
+    {
+      "id": 64,
+      "season": 4,
+      "episode": 23,
+      "title": "The Pilot (Part 3)",
+      "airDate": "1993-05-06",
+      "description": "Another airing of the pilot, combined with additional scenes and commentary from the cast, effectively summarizing the pilot storyline."
+    },
+    {
+      "id": 65,
+      "season": 4,
+      "episode": 24,
+      "title": "The Pilot (Part 4)",
+      "airDate": "1993-05-06",
+      "description": "A final compilation of the pilot storyline, completing the arc of Jerry and George's attempt to create a show about nothing."
+    },
+    {
+      "id": 66,
+      "season": 5,
+      "episode": 1,
+      "title": "The Mango",
+      "airDate": "1993-09-16",
+      "description": "Jerry discovers Elaine faked all her orgasms when they were together. George's girlfriend can't have an orgasm, and Kramer buys bad fruit."
+    },
+    {
+      "id": 67,
+      "season": 5,
+      "episode": 2,
+      "title": "The Puffy Shirt",
+      "airDate": "1993-09-23",
+      "description": "Elaine accidentally agrees to have Jerry wear a ridiculous puffy shirt on the Today Show, causing him great embarrassment."
+    },
+    {
+      "id": 68,
+      "season": 5,
+      "episode": 3,
+      "title": "The Glasses",
+      "airDate": "1993-09-30",
+      "description": "Jerry loses his glasses and believes he saw Newman eating dog food. George's girlfriend tries to force him to buy new glasses."
+    },
+    {
+      "id": 69,
+      "season": 5,
+      "episode": 4,
+      "title": "The Sniffing Accountant",
+      "airDate": "1993-10-07",
+      "description": "Jerry suspects his accountant is on drugs. George tries to impress a woman by pretending to be a marine biologist, and Kramer reveals a surprising talent."
+    },
+    {
+      "id": 70,
+      "season": 5,
+      "episode": 5,
+      "title": "The Bris",
+      "airDate": "1993-10-14",
+      "description": "Jerry and Elaine are chosen as godparents for a baby, leading to a disastrous Bris ceremony where the mohel is unstable."
+    },
+    {
+      "id": 71,
+      "season": 5,
+      "episode": 6,
+      "title": "The Lip Reader",
+      "airDate": "1993-10-28",
+      "description": "George dates a deaf lineswoman who can read lips, leading him to try and exploit her ability at a tennis match. Kramer becomes a ball boy."
+    },
+    {
+      "id": 72,
+      "season": 5,
+      "episode": 7,
+      "title": "The Non-Fat Yogurt",
+      "airDate": "1993-11-04",
+      "description": "The gang discovers a new non-fat yogurt that might not be non-fat. Their obsession leads to political ramifications in the mayoral election."
+    },
+    {
+      "id": 73,
+      "season": 5,
+      "episode": 8,
+      "title": "The Barber",
+      "airDate": "1993-11-11",
+      "description": "Jerry tries to break up with his barber. George attempts to get a job and uses his unemployment benefits to buy a golf club."
+    },
+    {
+      "id": 74,
+      "season": 5,
+      "episode": 9,
+      "title": "The Masseuse",
+      "airDate": "1993-11-18",
+      "description": "Jerry dates a masseuse who refuses to give him a massage. George becomes obsessed with his new girlfriend's name, Donna Chang."
+    },
+    {
+      "id": 75,
+      "season": 5,
+      "episode": 10,
+      "title": "The Cigar Store Indian",
+      "airDate": "1993-12-09",
+      "description": "Jerry offends Elaine by buying a cigar store Indian for her. George attempts to pick up a woman by pretending to be an Indian."
+    },
+    {
+      "id": 76,
+      "season": 5,
+      "episode": 11,
+      "title": "The Conversion",
+      "airDate": "1993-12-16",
+      "description": "George considers converting to Latvian Orthodox for his girlfriend. Jerry's apartment smells like linoleum, and Kramer's fear of germs resurfaces."
+    },
+    {
+      "id": 77,
+      "season": 5,
+      "episode": 12,
+      "title": "The Opposite",
+      "airDate": "1994-01-20",
+      "description": "George decides to do the opposite of all his instincts, leading to a dramatic turn in his luck. Elaine's career and life unravel."
+    },
+    {
+      "id": 78,
+      "season": 5,
+      "episode": 13,
+      "title": "The Marine Biologist",
+      "airDate": "1994-01-27",
+      "description": "George, still embracing doing the opposite, finds himself successfully pretending to be a marine biologist. Jerry dates a woman who threw his organizer out a window."
+    },
+    {
+      "id": 79,
+      "season": 5,
+      "episode": 14,
+      "title": "The Dinner Party",
+      "airDate": "1994-02-03",
+      "description": "Jerry and Elaine try to buy a babka for a dinner party while George and Kramer try to buy a bottle of wine, leading to comedic mishaps."
+    },
+    {
+      "id": 80,
+      "season": 5,
+      "episode": 15,
+      "title": "The Puffy Shirt",
+      "airDate": "1994-02-10",
+      "description": "A clip show episode featuring highlights from previous episodes, primarily centered around The Puffy Shirt storyline and other memorable moments."
+    },
+    {
+      "id": 81,
+      "season": 5,
+      "episode": 16,
+      "title": "The Pie",
+      "airDate": "1994-02-17",
+      "description": "Jerry's girlfriend refuses to taste his pie. George tries to buy a mannequin that resembles Elaine, and Kramer creates a restaurant where customers pay what they want."
+    },
+    {
+      "id": 82,
+      "season": 5,
+      "episode": 17,
+      "title": "The Stand-In",
+      "airDate": "1994-02-24",
+      "description": "George tries to make a dying friend laugh, but fails. Kramer gets a job as a stand-in for a movie, and Elaine deals with an old man's obnoxious behavior."
+    },
+    {
+      "id": 83,
+      "season": 5,
+      "episode": 18,
+      "title": "The Wife",
+      "airDate": "1994-03-17",
+      "description": "Jerry pretends to be married to his girlfriend to get a dry cleaning discount. George tries to get a refund on a defective VCR, and Kramer uses an answering machine for a side business."
+    },
+    {
+      "id": 84,
+      "season": 5,
+      "episode": 19,
+      "title": "The Fire",
+      "airDate": "1994-03-31",
+      "description": "George saves a painting from a fire, but leaves women and children behind. Jerry deals with an annoying heckler, and Kramer ruins a children's party."
+    },
+    {
+      "id": 85,
+      "season": 5,
+      "episode": 20,
+      "title": "The Raincoats (Part 1)",
+      "airDate": "1994-04-28",
+      "description": "Jerry's parents come to New York and want to combine their trip with a visit to Europe. George tries to sell his father's old raincoats."
+    },
+    {
+      "id": 86,
+      "season": 5,
+      "episode": 21,
+      "title": "The Raincoats (Part 2)",
+      "airDate": "1994-04-28",
+      "description": "The complications of Jerry's parents' trip and George's raincoat selling continue. Jerry and his girlfriend try to find some alone time, and Kramer dates a French woman."
+    },
+    {
+      "id": 87,
+      "season": 5,
+      "episode": 22,
+      "title": "The Hamptons",
+      "airDate": "1994-05-12",
+      "description": "The gang visits the Hamptons and encounters a naked woman. George experiences shrinkage in front of Jerry's girlfriend, leading to an awkward revelation."
+    },
+    {
+      "id": 88,
+      "season": 6,
+      "episode": 1,
+      "title": "The Chaperone",
+      "airDate": "1994-09-22",
+      "description": "Elaine chaperones Miss Rhode Island, who tries to use Jerry's apartment for a tryst. George tries to improve his standing in the Yankees organization, and Kramer becomes a golf caddy."
+    },
+    {
+      "id": 89,
+      "season": 6,
+      "episode": 2,
+      "title": "The Big Salad",
+      "airDate": "1994-09-29",
+      "description": "Jerry's girlfriend takes credit for George buying Elaine a big salad. Kramer falls for a waitress, and Newman is suspected of murder."
+    },
+    {
+      "id": 90,
+      "season": 6,
+      "episode": 3,
+      "title": "The Pledge Drive",
+      "airDate": "1994-10-06",
+      "description": "Elaine works at a PBS pledge drive where Kramer answers phones. Jerry dates a woman who eats her peas one at a time, and George is mistaken for a thief."
+    },
+    {
+      "id": 91,
+      "season": 6,
+      "episode": 4,
+      "title": "The Chinese Woman",
+      "airDate": "1994-10-13",
+      "description": "Jerry is intrigued by a woman he believes is Chinese but turns out not to be. George is paranoid about his girlfriend's phone messages, and Kramer has a new job."
+    },
+    {
+      "id": 92,
+      "season": 6,
+      "episode": 5,
+      "title": "The Couch",
+      "airDate": "1994-10-27",
+      "description": "Jerry buys a new couch, leading to a conflict with Kramer who wants to watch TV on it. George is mistaken for a neo-Nazi by his girlfriend's parents."
+    },
+    {
+      "id": 93,
+      "season": 6,
+      "episode": 6,
+      "title": "The Gymnast",
+      "airDate": "1994-11-03",
+      "description": "Jerry dates a former Romanian gymnast. George tries to retrieve a discarded piece of food from his girlfriend's toilet, and Elaine suffers a back injury."
+    },
+    {
+      "id": 94,
+      "season": 6,
+      "episode": 7,
+      "title": "The Soup",
+      "airDate": "1994-11-10",
+      "description": "Jerry receives a disgusting free suit. George discovers that his girlfriend has a high-pitched laugh, and Kramer becomes obsessed with soup."
+    },
+    {
+      "id": 95,
+      "season": 6,
+      "episode": 8,
+      "title": "The Mom & Pop Store",
+      "airDate": "1994-11-17",
+      "description": "George buys a car he thinks belonged to Jon Voight. Jerry can't remember the name of an old friend, and Kramer tries to save a struggling shoe repair shop."
+    },
+    {
+      "id": 96,
+      "season": 6,
+      "episode": 9,
+      "title": "The Secretary",
+      "airDate": "1994-12-08",
+      "description": "Jerry dates a woman who dresses too provocatively for a secretary job. George tries to impress his boss by staying late at work, and Kramer tries to get a new suit."
+    },
+    {
+      "id": 97,
+      "season": 6,
+      "episode": 10,
+      "title": "The Switch",
+      "airDate": "1994-12-15",
+      "description": "Jerry schemes to switch girlfriends after realizing he prefers his girlfriend's roommate. Kramer's first name is revealed, and George tries to break up with his girlfriend."
+    },
+    {
+      "id": 98,
+      "season": 6,
+      "episode": 11,
+      "title": "The Label Maker",
+      "airDate": "1995-01-05",
+      "description": "Jerry and Elaine attend the Super Bowl with their friends, only to get into a feud over a label maker. George discovers his girlfriend might be a man."
+    },
+    {
+      "id": 99,
+      "season": 6,
+      "episode": 12,
+      "title": "The Scofflaw",
+      "airDate": "1995-01-12",
+      "description": "George learns his friend Gary Fogel has cancer and fakes cancer himself. Jerry discovers Gary is a scofflaw with numerous parking tickets."
+    },
+    {
+      "id": 100,
+      "season": 6,
+      "episode": 13,
+      "title": "The Highlights of 100 (Part 1)",
+      "airDate": "1995-02-02",
+      "description": "A clip show celebrating the 100th episode, featuring memorable moments from previous seasons, with new framing segments."
+    },
+    {
+      "id": 101,
+      "season": 6,
+      "episode": 14,
+      "title": "The Highlights of 100 (Part 2)",
+      "airDate": "1995-02-02",
+      "description": "Continuing the celebration of the 100th episode, this second part features more clips and reflections from the main characters."
+    },
+    {
+      "id": 102,
+      "season": 6,
+      "episode": 15,
+      "title": "The Beard",
+      "airDate": "1995-02-09",
+      "description": "Jerry dates a woman who only wears a toupee. George tries to prove he's not bald to his girlfriend, and Elaine dates a deaf man."
+    },
+    {
+      "id": 103,
+      "season": 6,
+      "episode": 16,
+      "title": "The Kiss Hello",
+      "airDate": "1995-02-16",
+      "description": "Elaine's new friend has an annoying habit of giving kiss hello to everyone. Jerry and George are frustrated by a woman who makes them wait for her to arrive."
+    },
+    {
+      "id": 104,
+      "season": 6,
+      "episode": 17,
+      "title": "The Doorman",
+      "airDate": "1995-02-23",
+      "description": "Jerry acts as a doorman for a neighbor, leading to misunderstandings. George tries to sell an armoire he found, and Kramer starts a business selling bro/manzieres."
+    },
+    {
+      "id": 105,
+      "season": 6,
+      "episode": 18,
+      "title": "The Jimmy",
+      "airDate": "1995-03-16",
+      "description": "George dates a woman whose boyfriend is named Jimmy and only refers to himself in the third person. Kramer believes he needs a new knee."
+    },
+    {
+      "id": 106,
+      "season": 6,
+      "episode": 19,
+      "title": "The Doodle",
+      "airDate": "1995-04-06",
+      "description": "Jerry's girlfriend has a horrible smell. George's parents visit, and Kramer suffers from fleas after adopting a dog."
+    },
+    {
+      "id": 107,
+      "season": 6,
+      "episode": 20,
+      "title": "The Fusilli Jerry",
+      "airDate": "1995-04-27",
+      "description": "Kramer makes a statue of Jerry out of fusilli pasta. George's father hurts his back trying to retrieve his wallet, and Elaine sends a sexy Christmas card."
+    },
+    {
+      "id": 108,
+      "season": 6,
+      "episode": 21,
+      "title": "The Face Painter",
+      "airDate": "1995-05-04",
+      "description": "Elaine dates a guy who paints his face at hockey games. Jerry meets a woman who doesn't use exclamation points, and George tries to get Yankees tickets."
+    },
+    {
+      "id": 109,
+      "season": 6,
+      "episode": 22,
+      "title": "The Understudy",
+      "airDate": "1995-05-11",
+      "description": "Bette Midler is injured, and Jerry's girlfriend is her understudy. George attempts to get tickets to a Yankees game, and Kramer tries to become a celebrity stand-in."
+    },
+    {
+      "id": 110,
+      "season": 6,
+      "episode": 23,
+      "title": "The Invitations (Part 1)",
+      "airDate": "1995-05-18",
+      "description": "George proposes to Susan Ross, much to everyone's surprise. Jerry encounters a woman who copies his comedic style, and Kramer is involved in a class-action lawsuit."
+    },
+    {
+      "id": 111,
+      "season": 6,
+      "episode": 24,
+      "title": "The Invitations (Part 2)",
+      "airDate": "1995-05-18",
+      "description": "George and Susan's wedding preparations begin, creating tension and complications for everyone. Jerry questions his future with his new girlfriend."
+    },
+    {
+      "id": 112,
+      "season": 7,
+      "episode": 1,
+      "title": "The Engagement",
+      "airDate": "1995-09-21",
+      "description": "Jerry and George decide to be more mature after George gets engaged, but quickly revert to their old habits. Elaine tries to avoid a friend who always complains about her life."
+    },
+    {
+      "id": 113,
+      "season": 7,
+      "episode": 2,
+      "title": "The Postponement",
+      "airDate": "1995-09-28",
+      "description": "George tries to postpone his wedding. Jerry finds a woman who is just like him, and Elaine tries to get a friend to sign a prenup."
+    },
+    {
+      "id": 114,
+      "season": 7,
+      "episode": 3,
+      "title": "The Maestro",
+      "airDate": "1995-10-05",
+      "description": "Elaine dates a pretentious conductor who goes by Maestro. Jerry tries to guess the origin of a friend's new catchphrase, and George searches for a summer house."
+    },
+    {
+      "id": 115,
+      "season": 7,
+      "episode": 4,
+      "title": "The Wink",
+      "airDate": "1995-10-12",
+      "description": "Jerry accidentally winks at George's boss, leading to a misunderstanding. Elaine loses a friend's medical charts, and Kramer tries to get a good night's sleep."
+    },
+    {
+      "id": 116,
+      "season": 7,
+      "episode": 5,
+      "title": "The Hot Tub",
+      "airDate": "1995-10-19",
+      "description": "Kramer installs a hot tub and becomes obsessed with it. Jerry invites a slow-talking marathon runner to his apartment, causing frustration."
+    },
+    {
+      "id": 117,
+      "season": 7,
+      "episode": 6,
+      "title": "The Soup Nazi",
+      "airDate": "1995-11-02",
+      "description": "Jerry, George, and Elaine discover a tyrannical soup stand owner who has strict rules for ordering soup. Elaine breaks the rules and is banned."
+    },
+    {
+      "id": 118,
+      "season": 7,
+      "episode": 7,
+      "title": "The Secret Code",
+      "airDate": "1995-11-09",
+      "description": "George tries to get a new secret code for his ATM card. Kramer tries to find a job, and Elaine's job causes her to travel to France."
+    },
+    {
+      "id": 119,
+      "season": 7,
+      "episode": 8,
+      "title": "The Pool Guy",
+      "airDate": "1995-11-16",
+      "description": "Jerry becomes annoyed by his pool guy who constantly wants to hang out. George tries to make new friends separate from Jerry."
+    },
+    {
+      "id": 120,
+      "season": 7,
+      "episode": 9,
+      "title": "The Sponge",
+      "airDate": "1995-12-07",
+      "description": "Elaine discovers her favorite contraceptive sponge is being discontinued, leading her to stockpile them. Jerry dates a woman who doesn't use exclamation points."
+    },
+    {
+      "id": 121,
+      "season": 7,
+      "episode": 10,
+      "title": "The Gum",
+      "airDate": "1995-12-14",
+      "description": "Kramer becomes obsessed with chewing gum and thinks a local store is run by a mental patient. George tries to save a beloved landmark."
+    },
+    {
+      "id": 122,
+      "season": 7,
+      "episode": 11,
+      "title": "The Rye",
+      "airDate": "1996-01-04",
+      "description": "George's parents have a dinner party with Susan's parents. The Costanzas steal a marble rye from the table, leading to a bizarre chase."
+    },
+    {
+      "id": 123,
+      "season": 7,
+      "episode": 12,
+      "title": "The Caddy",
+      "airDate": "1996-01-18",
+      "description": "Elaine's golf caddy, a former Kramer look-alike, creates a new clothing line. George pretends to live in a mansion, and Kramer sues a tobacco company."
+    },
+    {
+      "id": 124,
+      "season": 7,
+      "episode": 13,
+      "title": "The Seven",
+      "airDate": "1996-01-25",
+      "description": "George argues with Susan about baby names, specifically Seven. Jerry dates a woman who has a high-pitched voice, and Elaine's new boyfriend is bald."
+    },
+    {
+      "id": 125,
+      "season": 7,
+      "episode": 14,
+      "title": "The Cadillac (Part 1)",
+      "airDate": "1996-02-01",
+      "description": "Jerry buys his father a Cadillac after a successful commercial. George obsesses over the car, and Elaine has a secret admirer."
+    },
+    {
+      "id": 126,
+      "season": 7,
+      "episode": 15,
+      "title": "The Cadillac (Part 2)",
+      "airDate": "1996-02-01",
+      "description": "Jerry's Cadillac causes jealousy and suspicion among his parents' friends. George tries to get a new job, and Kramer runs for president of his co-op board."
+    },
+    {
+      "id": 127,
+      "season": 7,
+      "episode": 16,
+      "title": "The Bottle Deposit (Part 1)",
+      "airDate": "1996-02-22",
+      "description": "Kramer and Newman plan to drive a mail truck full of bottles to Michigan for a higher deposit. Jerry has his car stolen by a mechanic."
+    },
+    {
+      "id": 128,
+      "season": 7,
+      "episode": 17,
+      "title": "The Bottle Deposit (Part 2)",
+      "airDate": "1996-02-22",
+      "description": "Kramer and Newman's cross-country bottle cap adventure continues. Jerry tracks down his stolen car, and Elaine tries to buy a new dress."
+    },
+    {
+      "id": 129,
+      "season": 7,
+      "episode": 18,
+      "title": "The Friars Club",
+      "airDate": "1996-03-07",
+      "description": "Jerry is invited to perform at the prestigious Friars Club. George struggles with Susan's obsession with John F. Kennedy Jr."
+    },
+    {
+      "id": 130,
+      "season": 7,
+      "episode": 19,
+      "title": "The Wig",
+      "airDate": "1996-03-14",
+      "description": "George loses his toupee, leading to embarrassment. Jerry dates a woman who thinks he looks like Marv Albert, and Elaine tries to get a copy of her birth certificate."
+    },
+    {
+      "id": 131,
+      "season": 7,
+      "episode": 20,
+      "title": "The Calzone",
+      "airDate": "1996-04-25",
+      "description": "George gets obsessed with calzones. Jerry is blacklisted by a dry cleaner, and Kramer tries to find a good place to hide his money."
+    },
+    {
+      "id": 132,
+      "season": 7,
+      "episode": 21,
+      "title": "The Doll",
+      "airDate": "1996-05-02",
+      "description": "Jerry's girlfriend has a disturbing ventriloquist doll. George discovers Susan's family's cabin, and Elaine gets fired from her job."
+    },
+    {
+      "id": 133,
+      "season": 7,
+      "episode": 22,
+      "title": "The Friars Club (Clip Show)",
+      "airDate": "1996-05-09",
+      "description": "A clip show episode featuring highlights from previous seasons, with framing segments of Jerry preparing for his Friars Club roast."
+    },
+    {
+      "id": 134,
+      "season": 7,
+      "episode": 23,
+      "title": "The Invitations (Clip Show)",
+      "airDate": "1996-05-09",
+      "description": "Another clip show focusing on the progression of George and Susan's engagement and other related storylines."
+    },
+    {
+      "id": 135,
+      "season": 7,
+      "episode": 24,
+      "title": "The Invitations",
+      "airDate": "1996-05-16",
+      "description": "Susan dies from licking cheap, toxic wedding invitation envelopes. George reacts with surprising apathy, while the others ponder their own relationships and mortality."
+    },
+    {
+      "id": 136,
+      "season": 8,
+      "episode": 1,
+      "title": "The Foundation",
+      "airDate": "1996-09-19",
+      "description": "George inherits money from Susan's will and starts a foundation in her name. Elaine takes over Peterman's job, and Jerry dates a woman who was Susan's friend."
+    },
+    {
+      "id": 137,
+      "season": 8,
+      "episode": 2,
+      "title": "The Soul Mate",
+      "airDate": "1996-09-26",
+      "description": "Jerry dates a woman who doesn't believe in soul mates. George tries to prove he has a conscience to a woman, and Kramer falls in love with Elaine's roommate."
+    },
+    {
+      "id": 138,
+      "season": 8,
+      "episode": 3,
+      "title": "The Bizarro Jerry",
+      "airDate": "1996-10-03",
+      "description": "Elaine befriends a group of people who are the exact opposite of Jerry, George, and Kramer. George tries to impress a woman with his new job."
+    },
+    {
+      "id": 139,
+      "season": 8,
+      "episode": 4,
+      "title": "The Little Kicks",
+      "airDate": "1996-10-10",
+      "description": "Elaine's dancing is discovered to be terrible after a video is shown. George tries to get fired from his new job, and Kramer runs a movie theater."
+    },
+    {
+      "id": 140,
+      "season": 8,
+      "episode": 5,
+      "title": "The Package",
+      "airDate": "1996-10-17",
+      "description": "Jerry tries to avoid signing for a mysterious package. George tries to commit insurance fraud, and Elaine tries to get a new doctor."
+    },
+    {
+      "id": 141,
+      "season": 8,
+      "episode": 6,
+      "title": "The Fatigues",
+      "airDate": "1996-10-31",
+      "description": "Elaine's new assistant is a war veteran. George tries to get a job at a company that is hiring only attractive women, and Jerry's comedy material is stolen."
+    },
+    {
+      "id": 142,
+      "season": 8,
+      "episode": 7,
+      "title": "The Checks",
+      "airDate": "1996-11-07",
+      "description": "Jerry is paid in Japanese yen, leading to problems. George buys a noisy answering machine, and Kramer hosts Japanese businessmen in his apartment."
+    },
+    {
+      "id": 143,
+      "season": 8,
+      "episode": 8,
+      "title": "The Chicken Roaster",
+      "airDate": "1996-11-14",
+      "description": "A Kenny Rogers Roasters restaurant opens across the street from Jerry's apartment, causing a bright red glow and affecting Kramer's sanity."
+    },
+    {
+      "id": 144,
+      "season": 8,
+      "episode": 9,
+      "title": "The Abstinence",
+      "airDate": "1996-11-21",
+      "description": "Jerry and Elaine lose their intelligence due to abstinence. George becomes incredibly smart and witty due to his celibacy."
+    },
+    {
+      "id": 145,
+      "season": 8,
+      "episode": 10,
+      "title": "The Little Jerry",
+      "airDate": "1996-12-19",
+      "description": "Kramer adopts a rooster named Little Jerry Seinfeld, which he enters in cockfights. George tries to get a credit card for his foundation."
+    },
+    {
+      "id": 146,
+      "season": 8,
+      "episode": 11,
+      "title": "The Comeback",
+      "airDate": "1997-01-09",
+      "description": "Jerry attempts to come up with a good comeback for a joke made at his expense. George buys a used car, and Kramer gets a tennis tutor."
+    },
+    {
+      "id": 147,
+      "season": 8,
+      "episode": 12,
+      "title": "The Van Buren Boys",
+      "airDate": "1997-01-16",
+      "description": "George creates fake scholarships using Susan's foundation money and inadvertently attracts a gang called the Van Buren Boys. Kramer becomes a mentor."
+    },
+    {
+      "id": 148,
+      "season": 8,
+      "episode": 13,
+      "title": "The Susie",
+      "airDate": "1997-01-30",
+      "description": "Elaine is mistaken for a co-worker named Susie, leading to confusion and eventually Susie's disappearance. George tries to quit his job but fails."
+    },
+    {
+      "id": 149,
+      "season": 8,
+      "episode": 14,
+      "title": "The Pothole",
+      "airDate": "1997-02-06",
+      "description": "Elaine's street has a giant pothole. Jerry dates a woman with a distinct speaking voice. Kramer adopts a section of the highway."
+    },
+    {
+      "id": 150,
+      "season": 8,
+      "episode": 15,
+      "title": "The English Patient",
+      "airDate": "1997-02-13",
+      "description": "Elaine hates the movie The English Patient, sparking arguments with everyone. George tries to impress a woman by feigning interest in the movie."
+    },
+    {
+      "id": 151,
+      "season": 8,
+      "episode": 16,
+      "title": "The Nap",
+      "airDate": "1997-02-20",
+      "description": "Jerry installs a fold-down bed in his apartment. George tries to get a new job working at a mattress store, and Elaine dates a man who shares his nap times."
+    },
+    {
+      "id": 152,
+      "season": 8,
+      "episode": 17,
+      "title": "The Yada Yada",
+      "airDate": "1997-04-10",
+      "description": "Jerry dates a woman who uses 'yada yada yada' to shorten stories. George uses the phrase to cover up important details, and Kramer gets a job as a photographer."
+    },
+    {
+      "id": 153,
+      "season": 8,
+      "episode": 18,
+      "title": "The Old Man (Clip Show)",
+      "airDate": "1997-04-17",
+      "description": "A clip show episode focusing on the aging population and the characters' interactions with their elderly relatives."
+    },
+    {
+      "id": 154,
+      "season": 8,
+      "episode": 19,
+      "title": "The Millennium",
+      "airDate": "1997-05-01",
+      "description": "George tries to get fired from the Yankees so he can work for the Mets. Elaine tries to get tickets for Peterman's millennium party, and Kramer tries to become a celebrity stand-in."
+    },
+    {
+      "id": 155,
+      "season": 8,
+      "episode": 20,
+      "title": "The Muffin Tops",
+      "airDate": "1997-05-08",
+      "description": "Elaine's old boss starts a business selling only muffin tops. George pretends to be a tourist to get a free hotel room, and Kramer starts a bus tour of unusual places."
+    },
+    {
+      "id": 156,
+      "season": 8,
+      "episode": 21,
+      "title": "The Summer of George",
+      "airDate": "1997-05-15",
+      "description": "George receives severance pay and declares it the Summer of George, intending to do nothing. Elaine is annoyed by a co-worker who breathes heavily, and Kramer takes on an acting role."
+    },
+    {
+      "id": 157,
+      "season": 8,
+      "episode": 22,
+      "title": "The Butter Shave",
+      "airDate": "1997-05-15",
+      "description": "George tries to get fired by being obnoxious at work. Kramer discovers he can shave with butter, leading to skin issues, and Jerry deals with an annoying comedian."
+    },
+    {
+      "id": 158,
+      "season": 9,
+      "episode": 1,
+      "title": "The Slicer",
+      "airDate": "1997-09-25",
+      "description": "Jerry dates a dermatologist who he suspects is purposely making his skin worse. George tries to steal a slicer from his boss, and Kramer uses a meat slicer for his own purposes."
+    },
+    {
+      "id": 159,
+      "season": 9,
+      "episode": 2,
+      "title": "The Voice",
+      "airDate": "1997-10-02",
+      "description": "Jerry's new girlfriend has a disturbing voice. George tries to get a new job, and Kramer becomes obsessed with a college student he believes is his voice to the world."
+    },
+    {
+      "id": 160,
+      "season": 9,
+      "episode": 3,
+      "title": "The Serenity Now",
+      "airDate": "1997-10-09",
+      "description": "Frank Costanza starts selling computers and uses a calming phrase, 'Serenity Now!' to deal with stress. Jerry dates a woman who laughs at inappropriate times."
+    },
+    {
+      "id": 161,
+      "season": 9,
+      "episode": 4,
+      "title": "The Blood",
+      "airDate": "1997-10-16",
+      "description": "Jerry's girlfriend wants him to give blood. George tries to impress his girlfriend by pretending to be a blood donor, and Kramer gets a job as a blood bank technician."
+    },
+    {
+      "id": 162,
+      "season": 9,
+      "episode": 5,
+      "title": "The Junk Mail",
+      "airDate": "1997-10-23",
+      "description": "Jerry declares war on junk mail. George tries to get a free car, and Kramer takes on a job delivering newspapers."
+    },
+    {
+      "id": 163,
+      "season": 9,
+      "episode": 6,
+      "title": "The Merv Griffin Show",
+      "airDate": "1997-10-30",
+      "description": "Kramer finds the discarded set of The Merv Griffin Show and sets it up in his apartment, acting as host. Jerry dates a toy company executive."
+    },
+    {
+      "id": 164,
+      "season": 9,
+      "episode": 7,
+      "title": "The Strike",
+      "airDate": "1997-12-18",
+      "description": "Frank Costanza celebrates Festivus, a holiday he invented. Jerry dates a woman who is a two-face, and Elaine tries to get a free sub from a deli."
+    },
+    {
+      "id": 165,
+      "season": 9,
+      "episode": 8,
+      "title": "The Betrayal",
+      "airDate": "1997-11-20",
+      "description": "The episode runs in reverse chronological order, revealing the story of a betrayal that occurred during Elaine's trip to India."
+    },
+    {
+      "id": 166,
+      "season": 9,
+      "episode": 9,
+      "title": "The Apology",
+      "airDate": "1997-12-11",
+      "description": "Jerry dates a nudist who offends his friends. George tries to get an apology from a friend, and Elaine becomes obsessed with her new boyfriend's personal hygiene."
+    },
+    {
+      "id": 167,
+      "season": 9,
+      "episode": 10,
+      "title": "The Dealership",
+      "airDate": "1998-01-08",
+      "description": "Jerry tries to buy a new car from Elaine's boyfriend, who is a car salesman. George tries to get a free car, and Kramer takes a test drive."
+    },
+    {
+      "id": 168,
+      "season": 9,
+      "episode": 11,
+      "title": "The Reverse Peephole",
+      "airDate": "1998-01-15",
+      "description": "Kramer and Newman reverse their peepholes, allowing them to see out instead of in. George starts carrying a large wallet, and Elaine has a new fur coat."
+    },
+    {
+      "id": 169,
+      "season": 9,
+      "episode": 12,
+      "title": "The Cartoon",
+      "airDate": "1998-01-29",
+      "description": "Jerry tries to create a cartoon based on his comedy. George tries to get out of a commitment, and Elaine discovers an unflattering caricature of herself."
+    },
+    {
+      "id": 170,
+      "season": 9,
+      "episode": 13,
+      "title": "The Principal",
+      "airDate": "1998-02-05",
+      "description": "George becomes known as 'the bad boy' after a series of strange coincidences. Jerry dates a woman who is a principal, and Kramer becomes a police informant."
+    },
+    {
+      "id": 171,
+      "season": 9,
+      "episode": 14,
+      "title": "The Burning",
+      "airDate": "1998-02-12",
+      "description": "Elaine's boyfriend has a bizarre condition. George discovers that his girlfriend has a medical history, and Jerry is haunted by a dream."
+    },
+    {
+      "id": 172,
+      "season": 9,
+      "episode": 15,
+      "title": "The Puerto Rican Day",
+      "airDate": "1998-05-07",
+      "description": "The gang gets stuck in a traffic jam during the Puerto Rican Day Parade, leading to a series of escalating frustrations and chaotic events."
+    },
+    {
+      "id": 173,
+      "season": 9,
+      "episode": 16,
+      "title": "The Clip Show (Part 1)",
+      "airDate": "1998-05-07",
+      "description": "The first part of a two-part clip show, featuring highlights from the series, with new material showing the gang looking back at their lives."
+    },
+    {
+      "id": 174,
+      "season": 9,
+      "episode": 17,
+      "title": "The Clip Show (Part 2)",
+      "airDate": "1998-05-07",
+      "description": "The second part of the clip show, continuing to revisit iconic moments from the series, as the characters reflect on their shared history."
+    },
+    {
+      "id": 175,
+      "season": 9,
+      "episode": 18,
+      "title": "The Butter Shave (Clip Show)",
+      "airDate": "1998-05-07",
+      "description": "A specific clip show focusing on the themes of honesty, deception, and personal quirks, often related to the Butter Shave episode."
+    },
+    {
+      "id": 176,
+      "season": 9,
+      "episode": 19,
+      "title": "The Finale (Part 1)",
+      "airDate": "1998-05-14",
+      "description": "Jerry, George, Elaine, and Kramer are offered a deal to produce their show in Los Angeles. On their way, their plane makes an emergency landing in a small town in Massachusetts."
+    },
+    {
+      "id": 177,
+      "season": 9,
+      "episode": 20,
+      "title": "The Finale (Part 2)",
+      "airDate": "1998-05-14",
+      "description": "While waiting for their plane, the gang witnesses a man being carjacked and do nothing to help. They are arrested under a 'Good Samaritan' law and put on trial, where their past misdeeds are brought to light."
+    },
+    {
+      "id": 178,
+      "season": 9,
+      "episode": 21,
+      "title": "The Finale (Part 3)",
+      "airDate": "1998-05-14",
+      "description": "The trial continues, with various characters from their past testifying against them, revealing their self-centered and inconsiderate behavior."
+    },
+    {
+      "id": 179,
+      "season": 9,
+      "episode": 22,
+      "title": "The Finale (Part 4)",
+      "airDate": "1998-05-14",
+      "description": "The trial concludes with the gang being found guilty and sentenced to one year in prison. The series ends with Jerry doing stand-up in prison."
+    },
+    {
+      "id": 180,
+      "season": 9,
+      "episode": 23,
+      "title": "The Finale (Part 5)",
+      "airDate": "1998-05-14",
+      "description": "A compilation of the entire finale storyline from parts 1-4, sometimes including additional scenes or different edits depending on the broadcast."
+    }
+  ]

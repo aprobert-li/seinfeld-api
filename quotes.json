@@ -1,0 +1,219 @@
+[
+    {
+      "id": 1,
+      "character": "Jerry Seinfeld",
+      "quote": "And you want to be my latex salesman?",
+      "episode": "The Boyfriend, Part 1",
+      "context": "Jerry's response to seeing George laying on the floor after George asked Jerry to pretend that George was his latex salesman."
+    },
+    {
+      "id": 2,
+      "character": "George Costanza",
+      "quote": "I was in the pool! I was in the pool!",
+      "episode": "The Hamptons",
+      "context": "George's excuse for shrinkage after being seen naked"
+    },
+    {
+      "id": 3,
+      "character": "Cosmo Kramer",
+      "quote": "These pretzels are making me thirsty!",
+      "episode": "The Alternate Side",
+      "context": "Kramer's line in a Woody Allen movie, repeated by all characters"
+    },
+    {
+      "id": 4,
+      "character": "Elaine Benes",
+      "quote": "Get out!",
+      "episode": "Various",
+      "context": "Elaine's expression of disbelief or shock"
+    },
+    {
+      "id": 5,
+      "character": "Newman",
+      "quote": "Hello, Jerry.",
+      "episode": "Various",
+      "context": "Newman's menacing greeting to Jerry"
+    },
+    {
+      "id": 6,
+      "character": "Frank Costanza",
+      "quote": "Serenity now!",
+      "episode": "The Serenity Now",
+      "context": "Frank's anger management technique that doesn't work"
+    },
+    {
+      "id": 7,
+      "character": "George Costanza",
+      "quote": "It's not a lie if you believe it.",
+      "episode": "The Beard",
+      "context": "George's philosophy on deception"
+    },
+    {
+      "id": 8,
+      "character": "Kenny Bania",
+      "quote": "That's gold, Jerry! Gold!",
+      "episode": "Various",
+      "context": "Jerry praising someone's comedic material"
+    },
+    {
+      "id": 9,
+      "character": "Soup Nazi",
+      "quote": "No soup for you!",
+      "episode": "The Soup Nazi",
+      "context": "The Soup Nazi denying service to customers"
+    },
+    {
+      "id": 10,
+      "character": "Elaine Benes",
+      "quote": "Yada yada yada",
+      "episode": "The Yada Yada",
+      "context": "Skipping over details in storytelling"
+    },
+    {
+      "id": 11,
+      "character": "Jerry Seinfeld",
+      "quote": "Not that there's anything wrong with that",
+      "episode": "The Outing",
+      "context": "Disclaimer about homosexuality"
+    },
+    {
+      "id": 12,
+      "character": "George Costanza",
+      "quote": "Worlds are colliding! George is getting upset!",
+      "episode": "The Pool Guy",
+      "context": "George panicking about his girlfriend becoming friends with Jerry and Elaine"
+    },
+    {
+      "id": 13,
+      "character": "Cosmo Kramer",
+      "quote": "Giddy up!",
+      "episode": "Various",
+      "context": "Kramer's enthusiastic exclamation"
+    },
+    {
+      "id": 14,
+      "character": "George Costanza",
+      "quote": "Summer of George!",
+      "episode": "The Caddy",
+      "context": "George celebrating his unemployment"
+    },
+    {
+      "id": 15,
+      "character": "Jerry Seinfeld",
+      "quote": "I don't want to be a pirate!",
+      "episode": "The Puffy Shirt",
+      "context": "Jerry complaining about wearing the puffy shirt"
+    },
+    {
+      "id": 16,
+      "character": "Frank Costanza",
+      "quote": "I got a lot of problems with you people!",
+      "episode": "The Strike",
+      "context": "Frank during the Festivus airing of grievances"
+    },
+    {
+      "id": 17,
+      "character": "George Costanza",
+      "quote": "The jerk store called, they're running out of you!",
+      "episode": "The Comeback",
+      "context": "George's comeback to a coworker's insult"
+    },
+    {
+      "id": 18,
+      "character": "Elaine Benes",
+      "quote": "Maybe the dingo ate your baby!",
+      "episode": "The Stranded",
+      "context": "Elaine's inappropriate joke at a party"
+    },
+    {
+      "id": 19,
+      "character": "Cosmo Kramer",
+      "quote": "I'm out!",
+      "episode": "The Contest",
+      "context": "Kramer immediately losing the contest"
+    },
+    {
+      "id": 20,
+      "character": "George Costanza",
+      "quote": "We live in a society!",
+      "episode": "The Chinese Restaurant",
+      "context": "George getting upset at a woman who takes the pay phone from him"
+    },
+    {
+      "id": 21,
+      "character": "George Costanza",
+      "quote": "You had to have the BIG SALAD!",
+      "episode": "The Big Salad",
+      "context": "George gets upset with Elaine for ordering the big salad"
+    },
+    {
+      "id": 22,
+      "character": "Elaine Benes",
+      "quote": "Spongeworthy",
+      "episode": "The Sponge",
+      "context": "Elaine's criteria for dating after contraceptive sponges become rare"
+    },
+    {
+      "id": 23,
+      "character": "Newman",
+      "quote": "When you control the mail, you control... information!",
+      "episode": "The Lip Reader",
+      "context": "Newman explaining his postal worker power"
+    },
+    {
+      "id": 24,
+      "character": "Frank Costanza",
+      "quote": "Festivus for the rest of us!",
+      "episode": "The Strike",
+      "context": "Frank explaining the Festivus holiday"
+    },
+    {
+      "id": 25,
+      "character": "George Costanza",
+      "quote": "I'm living the dream!",
+      "episode": "The Bizarro Jerry",
+      "context": "George sarcastically describing his life"
+    },
+    {
+      "id": 26,
+      "character": "Cosmo Kramer",
+      "quote": "My brain doesn't work that way.",
+      "episode": "The Jimmy",
+      "context": "Kramer explaining his unique thought process"
+    },
+    {
+      "id": 27,
+      "character": "Jerry Seinfeld",
+      "quote": "You know how to take a reservation.  You just know how to hold a reservation.",
+      "episode": "The Car Reservation",
+      "context": "Jerry's frustration that the car he reserved isn't available to rent."
+    },
+    {
+      "id": 28,
+      "character": "Elaine Benes",
+      "quote": "He took it out.",
+      "episode": "The Subway",
+      "context": "Elaine describing a date gone wrong"
+    },
+    {
+      "id": 29,
+      "character": "Jerry Seinfeld",
+      "quote": "I choose not to run!",
+      "episode": "The Race",
+      "context": "Jerry trying to avoid having to race an old high school rival"
+    },
+    {
+      "id": 30,
+      "character": "Cosmo Kramer",
+      "quote": "It's a write-off for them!",
+      "episode": "The Package",
+      "context": "Kramer explaining business tax deductions"
+    },
+    {
+        "id": 31,
+        "character": "Elaine Benes",
+        "quote": "I don't know how you guys walk around with those things",
+        "episode": "The Hamptons",
+        "context": "Elaine's response after learning about shrinkage"
+      }
+  ]
